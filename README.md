@@ -7,6 +7,8 @@
 
 ## Social
 
-<img src = "https://devicon-website.vercel.app/api/linkedin/original.svg" alt="img" width="50" heigth="50" link="https://www.linkedin.com/in/of-alisson-lima/">
+<a href = "https://www.linkedin.com/in/of-alisson-lima/">
+<img src = "https://devicon-website.vercel.app/api/linkedin/original.svg" alt="img" width="50" heigth="50">
+</a>
 
 ***
