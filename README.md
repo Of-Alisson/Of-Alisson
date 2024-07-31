@@ -11,7 +11,7 @@ Sou estudante de tecnologia e desenvolvimento de sistemas, me qualificando para 
 ## Social
 
 <a href="https://www.linkedin.com/in/of-alisson-lima/" target="_blank">
-<img src = "https://devicon-website.vercel.app/api/linkedin/original.svg" alt="img" width="40" heigth="40">
+<img src = "https://devicon-website.vercel.app/api/linkedin/original.svg" target ="_blank" alt="img" width="40" heigth="40">
 </a>
 
 ***
